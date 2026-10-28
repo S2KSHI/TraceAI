@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo & Deployment
 
-* **Live URL:** [Insert your deployed Vercel URL here]
+* **Live URL:** [https://trace-ai-zeta.vercel.app/]
 * **Repository:** https://github.com/S2KSHI/TraceAI
 
 ---
